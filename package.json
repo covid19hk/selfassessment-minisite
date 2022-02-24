@@ -1,7 +1,6 @@
 {
   "name": "covid19hk-selfassessment-minisite",
-  "version": "1.0.0",
-  "private": true,
+  "version": "0.0.1",
   "description": "covid19hk-selfassessment-minisite",
   "author": "Ivan Ip",
   "keywords": [
@@ -15,8 +14,16 @@
     "clean": "gatsby clean"
   },
   "dependencies": {
+    "@chakra-ui/gatsby-plugin": "^2.0.4",
+    "@chakra-ui/icons": "^1.1.7",
+    "@chakra-ui/react": "^1.8.5",
+    "@emotion/react": "^11.8.1",
+    "@emotion/styled": "^11.8.1",
+    "framer-motion": "^6.2.7",
     "gatsby": "^4.8.0",
     "react": "^17.0.1",
-    "react-dom": "^17.0.1"
+    "react-decision-tree-flow": "^2.1.0",
+    "react-dom": "^17.0.1",
+    "react-icons": "^4.3.1"
   }
 }
