@@ -1,4 +1,4 @@
-<div style='text-align:center'>
+<div align='center'>
   <h1>COVID-19 Self assessment Minisite</h1>
   <p>A step by step COVID-19 self assessment portal.</p>
   <p>https://spotlight.covid19hk.net</p>
